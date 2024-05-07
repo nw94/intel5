@@ -1,0 +1,54 @@
+[33mcommit d7da57548bcc696cf7d15637d608cd54a613596f[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Merge: 6e62f93 4c2a699
+Author: NW <nigel.chee.foong.wong@intel.com>
+Date:   Tue May 7 02:12:36 2024 +0000
+
+    resolved conflict for file1
+
+[33mcommit 6e62f93cb76d168f0110856cdff8e145df92f400[m
+Author: NW <nigel.chee.foong.wong@intel.com>
+Date:   Tue May 7 02:06:30 2024 +0000
+
+    Fixed security in file1 main branch
+
+[33mcommit 4b9a4e25ba4c413de1236418c04554f3263f4489[m
+Author: NW <nigel.chee.foong.wong@intel.com>
+Date:   Tue May 7 02:05:42 2024 +0000
+
+    added file5 in main branch
+
+[33mcommit 4c2a6999ba742e21f404fea04c575d1e7f73b687[m[33m ([m[1;32mdev[m[33m)[m
+Author: NW <nigel.chee.foong.wong@intel.com>
+Date:   Tue May 7 02:03:26 2024 +0000
+
+    added function1 in file1 in dev
+
+[33mcommit ae2a877ab15e2c5ccb73609ec960ef7bfa85996b[m
+Author: NW <nigel.chee.foong.wong@intel.com>
+Date:   Tue May 7 02:02:30 2024 +0000
+
+    added feature1
+
+[33mcommit 58ecad0efffb71c1408ffefe74e713fc0da6a94b[m[33m ([m[1;32mtest[m[33m)[m
+Author: NW <nigel.chee.foong.wong@intel.com>
+Date:   Mon May 6 04:48:35 2024 +0000
+
+    added file4
+
+[33mcommit 9732d55df33ceda912694fed90dc31b3b9ca8296[m
+Author: NW <nigel.chee.foong.wong@intel.com>
+Date:   Mon May 6 04:47:04 2024 +0000
+
+    added file3 in dev branch
+
+[33mcommit 939dd24b4518d20ae6d4b38e0f5e890e03c1c8c3[m
+Author: NW <nigel.chee.foong.wong@intel.com>
+Date:   Mon May 6 04:45:57 2024 +0000
+
+    added file2 for testing again
+
+[33mcommit 971a7fba8abd657e18192bd8ca046e84e513a547[m
+Author: NW <nigel.chee.foong.wong@intel.com>
+Date:   Mon May 6 03:53:23 2024 +0000
+
+    added file1 for testing
